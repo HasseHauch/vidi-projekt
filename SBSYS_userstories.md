@@ -11,5 +11,9 @@ I de følgende userstories er det underforstået, at den grundkortfunktionalitet
 
 4. Som sagsbehandler f.eks. i Vej Park har jeg brug for ifm. visning af min aktuelle sag i kortet at kunne se, om der er andre aktive sager i lige i nærheden. Herved kan jeg undgå at kommunen henvender sig unødigt til de samme parter flere gange, samt at jeg evt. kan koordinere sagernes udførsel
 
-5. Som sagsbehandler har jeg brug for fra én eller flere sager, som er fremsøgt/vist i kortet, at kunne fremsøge sagerne i SBSYS. 
+5. Som sagsbehandler har jeg brug for fra en vist sag at kunne foretage en konfliktsøgning, som kan give et overblik over, hvad der er gældende på den pågældende adresse, så som kommune- og lokalplaner, fredninger, miljømæssige forhold.
+
+6. Som sagsbehandler har jeg brug for fra én eller flere sager, som er fremsøgt/vist i kortet, at kunne fremsøge sagerne i SBSYS.
+
+7. Som sagsbehandler har jeg brug for fra en fremsøgt liste af sager i SBSYS, at få vist deres placering i kortet
 
