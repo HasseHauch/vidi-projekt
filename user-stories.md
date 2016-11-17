@@ -17,3 +17,4 @@
 17. Som kommuneplanlægger vil jeg gerne kunne se information for alle planobjekter i et område selvom der ligger flere planer ovenpå hinanden for ikke at misse vigtige oplysninger.
 18. Som borgerservice-medarbejder vil jeg gerne hurtigt kunne finde frem til en adresse eller matrikel for at kunne hjælpe borgeren hurtigst muligt.
 19. Som sagsbehandler vil jeg gerne kunne finde berørte elementer i mange lag for et bestemt sted for at give mig et overblik over hvilke ting der skal tages hensyn til.
+20. Som adressemedarbejder vil jeg gerne kunne zoome trinløst i kortet, så jeg kan få lige netop den forstørrelse, som passer i den givne sammnhæng.
